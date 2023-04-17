@@ -3,7 +3,7 @@
 ## About the project
 This app is used for Countdown ,and you can start it, stop it and also reset the app.
 
-# Introduction Video of the Website
+# Introduction Video of the App
 
 
 https://user-images.githubusercontent.com/75939608/232629209-9d05f04e-c0b2-4e1f-badd-c5c5f06a25a8.mov
